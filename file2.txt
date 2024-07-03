@@ -1,1 +1,2 @@
-nikola
+This is file2
+this is a text file
